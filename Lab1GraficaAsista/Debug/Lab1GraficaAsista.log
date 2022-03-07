@@ -1,0 +1,5 @@
+﻿  Patrat.c
+C:\Users\Student\Desktop\GL files\Laboratoare_OpenGL\Laborator2\Patrat.c(140,61): warning C4133: 'function': incompatible types - from 'char [40]' to 'LPCWSTR'
+C:\Users\Student\Desktop\GL files\Laboratoare_OpenGL\Laborator2\Patrat.c(146,56): warning C4028: formal parameter 1 different from declaration
+C:\Users\Student\Desktop\GL files\Laboratoare_OpenGL\Laborator2\Patrat.c(147,59): warning C4028: formal parameter 1 different from declaration
+  Lab1GraficaAsista.vcxproj -> D:\223_3\Grafica\Lab1GraficaAsista\Debug\Lab1GraficaAsista.exe
